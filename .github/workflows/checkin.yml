@@ -1,4 +1,4 @@
-name: 米游签定时签到.
+name: 米游签定时签到
 
 on:
   workflow_dispatch:
